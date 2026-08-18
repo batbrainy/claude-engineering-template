@@ -17,6 +17,7 @@ Use `REVIEW_CHECKLIST.md` when reviewing changes and before completing substanti
 - Reuse existing utilities and patterns when they are appropriate.
 - Make assumptions explicit when they materially affect the solution.
 - Ask for clarification when ambiguity could lead to a meaningfully different result.
+- Never over engineer - self review your solution if a simpler way is possible use that.
 
 ## Implementation quality
 
